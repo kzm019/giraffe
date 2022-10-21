@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087715329832",
+    "project_id": "girfire-88363",
+    "storage_bucket": "girfire-88363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087715329832:android:2486df0e190fc55b59721d",
+        "android_client_info": {
+          "package_name": "com.example.giraffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087715329832-o4nvc1c1317vsmvk9v19m3do6b3te9pg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpTSZ2EDM8YMdXM0KSfWZLSk4lUjnOUcI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087715329832-o4nvc1c1317vsmvk9v19m3do6b3te9pg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
