@@ -29,6 +29,13 @@
             {
               "client_id": "1087715329832-o4nvc1c1317vsmvk9v19m3do6b3te9pg.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "1087715329832-l4hd43b3q8m7icuifk2utom5qbn2auub.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.giraffe"
+              }
             }
           ]
         }
